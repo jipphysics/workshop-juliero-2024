@@ -4,6 +4,14 @@
 - **Lugar**: Lab 28 de la Facultad de Matemática, Astronomía, Física y Computación ([FAMAF](https://www.famaf.unc.edu.ar/)) de la Universidad Nacional de Córdoba ([UNC](https://www.unc.edu.ar/)).
 - **Sala virtual**: [link](https://meet.google.com/ddj-wjbk-gsj)
 
+## Anuncios
+
+* El Workshop tuvo entre 10 y 14 asistentes. Continuará el próximo Lunes 5 de Agosto a la misma hora por los mismos medios. Quedan 3 charlas.
+
+## Videos de las charlas
+
+* [2024-07-29](git@github.com:jipphysics/workshop-juliero-2024.git)
+
 ## Programa
 
 ### Charlas (25 + 5 min.)
