@@ -10,7 +10,7 @@
 
 ## Videos de las charlas
 
-* [2024-07-29](git@github.com:jipphysics/workshop-juliero-2024.git)
+* [2024-07-29](https://drive.google.com/file/d/15kmOggvJ87L8tO2rO-goM6sC_wTj9nEh/view?usp=sharing)
 
 ## Programa
 
