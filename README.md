@@ -23,6 +23,10 @@
 5. Daniela Stauber, *Elliptic PDE with Finite Elements in Julia*
 6. Juan I. Perotti, *Las raíces LISPianas de Julia*
 
+### Compartidos
+
+* Jaquin Pelle comparte el material de su charla en [https://github.com/joaquinpelle/workshop-julia-2024](https://github.com/joaquinpelle/workshop-julia-2024).
+
 ### Mesa redonda
 
 Cerraremos el evento con un coffe-break/mesa-redonda.
