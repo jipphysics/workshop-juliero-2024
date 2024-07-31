@@ -14,11 +14,16 @@
 
 ## Programa
 
-### Charlas (25 + 5 min.)
+### Charlas (45 + 15 min.)
+
+#### Lunes 29 de Julio
 
 1. Oscar Reula, *Codigos pic con parametrización*
 2. Joaquín Pelle, *Inferencia de tipos, despacho múltiple y rasgos*
 3. Martín Mendez, *Resolviendo la ecuación de Schrödinger con FEM: Introducción a* `FEMTISE.jl`
+
+#### Lunes 5 de Mayo
+
 4. Nicolás Vazquez, *Simulación de modelos de distribución de riqueza en Julia+*`CUDA.jl`
 5. Daniela Stauber, *Elliptic PDE with Finite Elements in Julia*
 6. Juan I. Perotti, *Las raíces LISPianas de Julia*
@@ -29,7 +34,7 @@
 
 ### Mesa redonda
 
-Cerraremos el evento con un coffe-break/mesa-redonda.
+Cerraremos el evento con una mesa-redonda.
 
 ## Auspicios y agradecimientos
 
