@@ -25,8 +25,8 @@
 #### Lunes 5 de Mayo
 
 4. Nicolás Vazquez, *Simulación de modelos de distribución de riqueza en Julia+*`CUDA.jl`
-5. Daniela Stauber, *Elliptic PDE with Finite Elements in Julia*
-6. Juan I. Perotti, *Las raíces LISPianas de Julia*
+5. Juan I. Perotti, *Las raíces LISPianas de Julia*
+6. Daniela Stauber, *Elliptic PDE with Finite Elements in Julia*
 
 ### Compartidos
 
