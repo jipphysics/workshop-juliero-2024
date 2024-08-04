@@ -26,6 +26,7 @@
 ### Compartidos
 
 * Jaquin Pelle comparte el material de su charla en [https://github.com/joaquinpelle/workshop-julia-2024](https://github.com/joaquinpelle/workshop-julia-2024).
+* Martin Mendez comparte el material de su charla en [https://github.com/mendzmartin/talk_workshop_juliero_2024](https://github.com/mendzmartin/talk_workshop_juliero_2024).
 
 ### Mesa redonda
 
