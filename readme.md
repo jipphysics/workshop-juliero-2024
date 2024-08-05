@@ -11,6 +11,7 @@
 ## Videos de las charlas
 
 * [2024-07-29](https://drive.google.com/file/d/15kmOggvJ87L8tO2rO-goM6sC_wTj9nEh/view?usp=sharing)
+* [2024-08-05](https://drive.google.com/file/d/1Vy3OTKPTp15tJKvAzG4ktZta5S6pHMNc/view?usp=sharing)
 
 ## Programa
 
