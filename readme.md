@@ -32,6 +32,8 @@
 
 * Jaquin Pelle comparte el material de su charla en [https://github.com/joaquinpelle/workshop-julia-2024](https://github.com/joaquinpelle/workshop-julia-2024).
 * Martin Mendez comparte el material de su charla en [https://github.com/mendzmartin/talk_workshop_juliero_2024](https://github.com/mendzmartin/talk_workshop_juliero_2024).
+* Nicolás Vazquez comparte el material de su charla en [https://github.com/jipphysics/workshop-juliero-2024/blob/main/cuda_tutorial.ipynb](https://github.com/jipphysics/workshop-juliero-2024/blob/main/cuda_tutorial.ipynb).
+* Juan Perotti comparte el material de su charla en [https://github.com/jipphysics/workshop-juliero-2024/blob/main/charla-workshop-juliero-2024-07-29.ipynb](https://github.com/jipphysics/workshop-juliero-2024/blob/main/charla-workshop-juliero-2024-07-29.ipynb).
 
 ### Mesa redonda
 
